@@ -20,6 +20,5 @@ public class wordReverseAtPosetion {
         for (int i=0;i<len;i++){
             System.out.print(revearr[i]+" ");
         }
-
     }
 }

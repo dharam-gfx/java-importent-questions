@@ -11,6 +11,7 @@ public class findWordInString {
 //       word  posection count from string
         for (int i=0;i<result.length;i++){
             if (check.equals(result[i])) {
+
                 System.out.println("Position of "+check+ " is "+ (i+1));
             }
         }
